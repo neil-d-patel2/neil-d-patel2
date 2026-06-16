@@ -1,1 +1,1 @@
-I like embedded systems, computer networks, and deep learning.
+I like embedded systems, computer networks, deep learning, and competitive programming 
