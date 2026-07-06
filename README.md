@@ -1,1 +1,1 @@
-I like MLsys, computer networks, deep learning, and competitive programming 
+I like MLsys, computer systems, deep neural nets
